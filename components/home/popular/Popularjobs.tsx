@@ -5,7 +5,7 @@ import { useRouter } from 'expo-router';
 import useFetch from '../../../hook/useFetch';
 
 import { useQuery } from '@tanstack/react-query'
-import getContent  from '../../../api/get';
+import  {getContentFromAPI, getContentFromJsonServer}  from '../../../api/get';
 
 import styles from './popularjobs.style';
 import { COLORS, SIZES } from "../../../constants";
@@ -16,11 +16,12 @@ const Popularjobs = () => {
     
     const search = useQuery({
         queryKey: ['repoData'],
-        queryFn: () => getContent('search', {
-            query: 'Python developer in Texas, USA',
-            page: '1',
-            num_pages: '1'
-        })
+        // queryFn: () => getContent('search', {
+        //     query: 'Python developer in Texas, USA',
+        //     page: '1',
+        //     num_pages: '1'
+        // })
+        queryFn: () => getContentFromJsonServer()
     })
 
     const result: any = !search.isPending ? !search.isError ? search.data.data.data : 'error' : 'pending'; 
@@ -43,7 +44,7 @@ const Popularjobs = () => {
                     ): (
 
                         <FlatList
-                            data={search?.data?.data.data}
+                            data={result}
                             renderItem={({ item }: any) => (
                                 <PopularJobCard
                                     item={item}

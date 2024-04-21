@@ -18,7 +18,7 @@ interface queryObj3{
 }
 
 
-const getContent = async (endpoint: string, query: queryObj1 | queryObj2 | queryObj3) => {
+export const getContentFromAPI = async (endpoint: string, query: queryObj1 | queryObj2 | queryObj3) => {
     const options = {
         method: 'GET',
         maxBodyLength: Infinity,
@@ -26,7 +26,6 @@ const getContent = async (endpoint: string, query: queryObj1 | queryObj2 | query
             'X-RapidAPI-Key': '8bbf69841cmsh2e8ce1787b13f59p194252jsnf469ccff3ddd',
             'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
         },
-        // url: "http://localhost:8000/data"
         url: `https://jsearch.p.rapidapi.com/${endpoint}`,
         params: {...query}
     }
@@ -34,4 +33,13 @@ const getContent = async (endpoint: string, query: queryObj1 | queryObj2 | query
     return response;
 }
 
-export default getContent;
+export const getContentFromJsonServer = async () => {
+    const options = {
+        method: 'GET',
+        maxBodyLength: Infinity,
+        url: "http://localhost:8000/data"
+    }
+    const response = await axios.request(options);
+    return response;
+}
+
