@@ -1,0 +1,1015 @@
+{
+    "data": [
+        {
+            "job_id": "sptFkNYLDpEpDG1jAAAAAA==",
+            "employer_name": "Upwork",
+            "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+            "employer_website": "http://www.elance.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "Upwork",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer_~01755be09f5c383b73/",
+            "job_apply_is_direct": true,
+            "job_apply_quality_score": 0.686,
+            "apply_options": [
+                {
+                    "publisher": "Upwork",
+                    "apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer_~01755be09f5c383b73/",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Job Description:\n\nWe are looking for a skilled React Developer to join our team on a freelance basis. The ideal candidate will have a strong background in front-end development and a passion for creating high-quality web applications using React.\n\nResponsibilities:\n\nDevelop and implement user interfaces for web applications using React.js.\n\nCollaborate with cross-functional teams to design and implement new features.\n\nOptimize components for maximum performance across a vast array of web-capable devices and browsers.\n\nWrite clean, maintainable, and efficient code.\n\nConduct code reviews and provide constructive feedback to other team members.\n\nStay updated with the latest React.js trends, techniques, and best practices.\n\nRequirements:\n\nProven experience as a React Developer or similar role.\n\nStrong proficiency in JavaScript, including DOM manipulation and JavaScript object model.\n\nFamiliarity with modern front-end build pipelines and tools such as Webpack, Babel, and NPM.\n\nExperience with popular React workflows (such as Redux or MobX).\n\nKnowledge of RESTful APIs, JSON, and asynchronous request handling.\n\nFamiliarity with version control systems (e.g., Git).\n\nExcellent problem-solving skills and attention to detail.\n\nStrong communication and teamwork skills.\n\nWhat We Offer:\n\nCompetitive hourly rate based on experience and skills.\n\nFlexible working hours and remote work opportunities.\n\nExciting projects with innovative technologies.\n\nSupportive and collaborative work environment.",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1713066396,
+            "job_posted_at_datetime_utc": "2024-04-14T03:46:36.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=sptFkNYLDpEpDG1jAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": [
+                "React",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "TypeScript",
+                "Web Application"
+            ],
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 20,
+            "job_max_salary": 35,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "The ideal candidate will have a strong background in front-end development and a passion for creating high-quality web applications using React",
+                    "Proven experience as a React Developer or similar role",
+                    "Strong proficiency in JavaScript, including DOM manipulation and JavaScript object model",
+                    "Familiarity with modern front-end build pipelines and tools such as Webpack, Babel, and NPM",
+                    "Experience with popular React workflows (such as Redux or MobX)",
+                    "Knowledge of RESTful APIs, JSON, and asynchronous request handling",
+                    "Familiarity with version control systems (e.g., Git)",
+                    "Excellent problem-solving skills and attention to detail",
+                    "Strong communication and teamwork skills"
+                ],
+                "Responsibilities": [
+                    "Develop and implement user interfaces for web applications using React.js",
+                    "Collaborate with cross-functional teams to design and implement new features",
+                    "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+                    "Write clean, maintainable, and efficient code",
+                    "Conduct code reviews and provide constructive feedback to other team members",
+                    "Stay updated with the latest React.js trends, techniques, and best practices"
+                ],
+                "Benefits": [
+                    "Competitive hourly rate based on experience and skills",
+                    "Flexible working hours and remote work opportunities"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541511",
+            "job_naics_name": "Custom Computer Programming Services"
+        },
+        {
+            "job_id": "6L-6LJxHftlpKzapAAAAAA==",
+            "employer_name": "Dice",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlgydP7sElaJC9qPrtNHwBhyTMHYgii1RPWsy&s=0",
+            "employer_website": null,
+            "employer_company_type": "Information",
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer - 10+ years of exp. needed",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-10%2B-years-of-exp-needed-at-dice-3898209218",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6276,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-10%2B-years-of-exp-needed-at-dice-3898209218",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice.com",
+                    "apply_link": "https://www.dice.com/job-detail/8fb9aea2-8efd-4dd9-837f-6bda26256644",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "React Jobs",
+                    "apply_link": "https://reactjsjob.com/job/2f0V0iGa1hFGAKYWb2TsRnPrX6G/React%20Developer%20-%2010+%20years%20of%20exp.%20needed%20(Reactjs)",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, 1 Point System, is seeking the following. Apply via Dice today!\n\nTitle: React Developer\n\nRole: Hybrid in Charlotte, NC\n\nDuration: 11 months Contract to hire\n\nExp.:\n\n10+ years of experience\n\nProject: Team builds rich front-end experiences for horizontals like Digital Pro and ePRO.\n\nSkills:\n\nFront end engineering experience, on large customer facing applications\n\nReact\n\nNode\n\nRedux experience\n\nRetail/ecommerce experience is desirable.\n\nReact Developer - 10+ years of exp. needed",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1713022364,
+            "job_posted_at_datetime_utc": "2024-04-13T15:32:44.000Z",
+            "job_city": "Charlotte",
+            "job_state": "NC",
+            "job_country": "US",
+            "job_latitude": 35.227085,
+            "job_longitude": -80.843124,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=6L-6LJxHftlpKzapAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-05-13T15:32:44.000Z",
+            "job_offer_expiration_timestamp": 1715614364,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 120,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "10+ years of experience",
+                    "Project: Team builds rich front-end experiences for horizontals like Digital Pro and ePRO",
+                    "Front end engineering experience, on large customer facing applications",
+                    "React Developer - 10+ years of exp. needed"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "519130",
+            "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+        },
+        {
+            "job_id": "GdkTAFXu4nv4EVSdAAAAAA==",
+            "employer_name": "Rush Order",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Indeed",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=6a8d622fcce1266f",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6167,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=6a8d622fcce1266f",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/react-developer-rush-order-JV_KO0,15_KE16,26.htm?jl=1009227722574",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Help Rush Order build amazing customer experiences\n\nWho we look for\n\nRush Order is growing quickly and we are continuously looking for smart, personable, highly motivated individuals. If you are interested in joining a fast-paced team delivering awesome solutions for amazing brands, please review our current openings below and apply today!\n\nReact Developer\n\nSummary\n\nRush Order is on the hunt for a talented React Developer. As a member of our team, you'll work on exciting projects that are changing the game in the world of e-commerce and fulfillment. You will be responsible for designing, developing, and implementing complex web applications using React and related technologies. You will work closely with cross-functional teams to deliver high-quality software solutions that meet the needs of our clients in the logistics and warehouse industries.\n\nLocated just a stone's throw away from the tech hub of Silicon Valley, our team is at the forefront of innovation in this rapidly evolving field. If you're ready to join an exciting, dynamic team that's taking e-commerce and fulfillment to new heights, then apply now and become a part of our legacy!\n\nResponsibilities\n\nDesign and develop high-quality web applications using React and related technologies.\n\nCollaborate with designers, product owners, and stakeholders to understand requirements and develop solutions.\n\nImplement and maintain code using best practices and design patterns.\n\nOptimize applications for performance and scalability.\n\nTroubleshoot and debug issues as they arise.\n\nContinuously learn and stay up-to-date with new tools, frameworks, and technologies.\n\nWork collaboratively with other developers and team members to ensure project goals are met.\n\nRequirements\n\nBachelor's degree in Computer Science or related field.\n\nProven experience in developing web applications using React and related technologies.\n\nStrong knowledge of JavaScript, HTML, and CSS.\n\nFamiliarity with Git and agile development methodologies.\n\nExperience working in logistics or warehouse operations is a plus.\n\nExcellent problem-solving skills and attention to detail.\n\nStrong communication and collaboration skills.\n\nIf you are passionate about developing innovative software solutions for logistics and warehouse operations and are excited about working in a dynamic and fast-paced environment, we encourage you to apply for this position.\n\nJob Type: Full-time\n\nPay: $80,000.00 - $110,000.00 per year\n\nBenefits:\n\n401(k)\n\nDental insurance\n\nFlexible schedule\n\nFlexible spending account\n\nHealth insurance\n\nHealth savings account\n\nLife insurance\n\nPaid time off\n\nReferral program\n\nVision insurance\n\nExperience level:\n\n1 year\n\nSchedule:\n\n8 hour shift\n\nChoose your own hours\n\nMonday to Friday\n\nWork Location: Hybrid remote in Gilroy, CA 95020",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1712624930,
+            "job_posted_at_datetime_utc": "2024-04-09T01:08:50.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": [
+                "paid_time_off",
+                "dental_coverage",
+                "retirement_savings",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=GdkTAFXu4nv4EVSdAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-08-12T03:26:28.000Z",
+            "job_offer_expiration_timestamp": 1723433188,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": true
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 80000,
+            "job_max_salary": 110000,
+            "job_salary_currency": "USD",
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's degree in Computer Science or related field",
+                    "Proven experience in developing web applications using React and related technologies",
+                    "Strong knowledge of JavaScript, HTML, and CSS",
+                    "Familiarity with Git and agile development methodologies",
+                    "Excellent problem-solving skills and attention to detail",
+                    "Strong communication and collaboration skills",
+                    "If you are passionate about developing innovative software solutions for logistics and warehouse operations and are excited about working in a dynamic and fast-paced environment, we encourage you to apply for this position",
+                    "1 year"
+                ],
+                "Responsibilities": [
+                    "You will be responsible for designing, developing, and implementing complex web applications using React and related technologies",
+                    "You will work closely with cross-functional teams to deliver high-quality software solutions that meet the needs of our clients in the logistics and warehouse industries",
+                    "Collaborate with designers, product owners, and stakeholders to understand requirements and develop solutions",
+                    "Implement and maintain code using best practices and design patterns",
+                    "Optimize applications for performance and scalability",
+                    "Troubleshoot and debug issues as they arise",
+                    "Continuously learn and stay up-to-date with new tools, frameworks, and technologies",
+                    "Work collaboratively with other developers and team members to ensure project goals are met"
+                ],
+                "Benefits": [
+                    "Pay: $80,000.00 - $110,000.00 per year",
+                    "401(k)",
+                    "Dental insurance",
+                    "Flexible schedule",
+                    "Flexible spending account",
+                    "Health insurance",
+                    "Health savings account",
+                    "Life insurance",
+                    "Paid time off",
+                    "Referral program",
+                    "Vision insurance",
+                    "Choose your own hours"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "job_id": "iPue8DyS_i31nG0IAAAAAA==",
+            "employer_name": "BCforward",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YwB-FgAIRBJhXvCVOOxMluuyw00Lh8vcEtFq&s=0",
+            "employer_website": "http://www.bcforward.com",
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-bcforward-3896600218",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6249,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-bcforward-3896600218",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job-listing/react-developer-bcforward-redmond-wa-_v2_-7-3711339140.html",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20240325-e1160a4f5526e5377909e002941f9139",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Role/Tittle: Front End React Developer\n\nBase Location: Redmond, WA\n\nExpected Duration: 12 Months.\n\nJob Description:\n• 5+ years of non-internship professional front end, web or mobile software development using React, JavaScript, HTML and CSS experience.\n• 5+ years of front-end developer creating prototypes or wireframes for enterprise web applications or workflows experience.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1712938909,
+            "job_posted_at_datetime_utc": "2024-04-12T16:21:49.000Z",
+            "job_city": "Redmond",
+            "job_state": "WA",
+            "job_country": "US",
+            "job_latitude": 47.67399,
+            "job_longitude": -122.12151,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=iPue8DyS_i31nG0IAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-05-12T16:21:48.000Z",
+            "job_offer_expiration_timestamp": 1715530908,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": true,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 55,
+            "job_max_salary": 60,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "5+ years of non-internship professional front end, web or mobile software development using React, JavaScript, HTML and CSS experience",
+                    "5+ years of front-end developer creating prototypes or wireframes for enterprise web applications or workflows experience"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "job_id": "o-wK-4w8ZR5DaDUTAAAAAA==",
+            "employer_name": "United Airlines",
+            "employer_logo": "https://logowik.com/content/uploads/images/617_unitedairlines.jpg",
+            "employer_website": "http://www.united.com",
+            "employer_company_type": "Logistics",
+            "job_publisher": "United Airlines Jobs",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Senior React Developer - Information Technology",
+            "job_apply_link": "https://careers.united.com/us/en/job/WHQ00023518/Senior-React-Developer-Information-Technology",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.8082,
+            "apply_options": [
+                {
+                    "publisher": "United Airlines Jobs",
+                    "apply_link": "https://careers.united.com/us/en/job/WHQ00023518/Senior-React-Developer-Information-Technology",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/senior-react-developer-information-technology-at-united-airlines-3886158885",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Equality Magazines",
+                    "apply_link": "https://equalitymagazines.com/chicago-il/senior-react-developer-information-technology/54A27182249D42EAA57AF6935E91DF24/job/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=37c1d064c3bf4626",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/United-Airlines,-Inc/Job/Senior-React-Developer-Information-Technology/-in-Chicago,IL?jid=59c9a5a2e873af40",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/senior-react-developer-information-technology-united-airlines-JV_IC1128808_KO0,45_KE46,61.htm?jl=1009222673209",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/senior-react-developer-information-technology-unitedairlinesholdingsinc-chicago-il_69997148",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/6yCggMJaCy2G-RCc6zuFdqzD1vc8FjTU4OvgaEOU73ss3cs9otuGrQ",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Description\n\nThere’s never been a more exciting time to join United Airlines! We’re on a path towards becoming the best airline in the history of aviation. Our shared purpose – Connecting People, Uniting the World – is about more than getting people from one place to another. It also means that as a global company that operates in hundreds of locations around the world with millions of customers and tens of thousands of employees, we have a unique responsibility to uplift and provide opportunities in the places where we work, live and fly, and we can only do that with a truly diverse and inclusive workforce. And we’re growing – in the years ahead, we’ll hire tens of thousands of people across every area of the airline. Our careers include a competitive benefits package aimed at keeping you happy, healthy and well-traveled. From employee-run \"Business Resource Group\" communities to world-class benefits like parental leave, 401k and privileges like space available travel, United is truly a one-of-a-kind place to work. Are you ready to travel the world?\n\nWe believe that inclusion propels innovation and is the foundation of all that we do. United's Digital Technology team spans the globe and is made up of diverse individuals all working together with pioneering technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.\n\nJob overview and responsibilities\n\nThe Senior Developer plays a Critical role in creating and maintaining the strategic partnership between business needs and technology delivery. The Senior Developer's role is to lead the efforts to plan, design, develop and launch efficient systems and solutions in support of core organizational functions. This individual will apply proven communication, analytical and problem-solving skills to help identify, communicate and resolve issues, opportunities or problems in order to enhance the benefit of IT and Business investments. The Principal Developer is highly experienced and has decision-making authority. The Principal Developer is self - sufficient, requires no direct supervision, and mentors/coaches others. The Principal Developer has extensive knowledge/experience across multiple technologies and business areas.\n• Leads the design, development, and planning for solutions and technology standards to solve complex business problems\n• Hands-on development, Support and solve software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions\n• Collaborate with back-end developers to define required services and implement solutions using these services\n• Responsible for full development life cycle from planning through successful release and support\n• Mentor and assist in the training and onboarding of new team members\n• Participate in code reviews to maintain high quality, well architected code\n• Consults across multiple United Information Technology projects and technology areas to perform fixes, problem management, root-cause analysis, and solution implementation\n• Serves as a resource for technology/project development review and technical assessments\n• Provide consultation and technical leadership in project life cycle planning\n• Ensures consistency and coherence to the enterprise standards and guiding principles throughout the application lifecycle\n• Finds opportunities to leverage/influence the direction for existing infrastructure and application components\n• Understands and applies the enterprise vision and strategy to the project solution while balancing tactical needs to deliver\n• Partner with various business and IT collaborators in defining domain architecture strategy\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status, and other protected status as required by applicable law.\nQualifications\n\nRequired\n• Bachelors in Computer Science/Information Technology or related field\n• 5+ years of experience in in full-stack development with a focus on React, Typescript, and Node.js\n• Proficient in web development using React, Redux, ES6, Node.js, HTML5, CSS3\n• 5+ years of experience with common front-end development tools such as Babel, Webpack, NPM, etc.\n• 5 + years of experience building web applications with Micro frontend architecture\n• 5+ years of experience in design patterns and enterprise standards in application design\n• A deep understanding of accessibility fundamentals and its applications in creating robust user interfaces\n• Experience with unit testing\n• Understands Technology systems & applications\n• Exceptional at coding and on time delivery of quality components and or applications\n• Exceptional at triage or analysis of situations for production support\n• Effective participant of requirements gathering, requirements analysis\n• Must be legally authorized to work in the United States for any employer without sponsorship\n\nPreferred\n• Experience developing rest apis using c#\n• Cloud technologies AWS including CDN\n• UI Analytics (Google Analytics, Quantum Metrics)\n• Application performing tools\n• Git/GitHub Code repositories\n\nAirline Maintenance systems development is a PLUS\n\nEqual Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1713139200,
+            "job_posted_at_datetime_utc": "2024-04-15T00:00:00.000Z",
+            "job_city": "Chicago",
+            "job_state": "IL",
+            "job_country": "US",
+            "job_latitude": 41.878113,
+            "job_longitude": -87.6298,
+            "job_benefits": [
+                "health_insurance",
+                "retirement_savings"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=o-wK-4w8ZR5DaDUTAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 60,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelors in Computer Science/Information Technology or related field",
+                    "5+ years of experience in in full-stack development with a focus on React, Typescript, and Node.js",
+                    "Proficient in web development using React, Redux, ES6, Node.js, HTML5, CSS3",
+                    "5+ years of experience with common front-end development tools such as Babel, Webpack, NPM, etc",
+                    "5 + years of experience building web applications with Micro frontend architecture",
+                    "5+ years of experience in design patterns and enterprise standards in application design",
+                    "A deep understanding of accessibility fundamentals and its applications in creating robust user interfaces",
+                    "Experience with unit testing",
+                    "Understands Technology systems & applications",
+                    "Exceptional at coding and on time delivery of quality components and or applications",
+                    "Exceptional at triage or analysis of situations for production support",
+                    "Effective participant of requirements gathering, requirements analysis",
+                    "Must be legally authorized to work in the United States for any employer without sponsorship"
+                ],
+                "Responsibilities": [
+                    "The Senior Developer plays a Critical role in creating and maintaining the strategic partnership between business needs and technology delivery",
+                    "The Senior Developer's role is to lead the efforts to plan, design, develop and launch efficient systems and solutions in support of core organizational functions",
+                    "This individual will apply proven communication, analytical and problem-solving skills to help identify, communicate and resolve issues, opportunities or problems in order to enhance the benefit of IT and Business investments",
+                    "Leads the design, development, and planning for solutions and technology standards to solve complex business problems",
+                    "Hands-on development, Support and solve software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions",
+                    "Collaborate with back-end developers to define required services and implement solutions using these services",
+                    "Responsible for full development life cycle from planning through successful release and support",
+                    "Mentor and assist in the training and onboarding of new team members",
+                    "Participate in code reviews to maintain high quality, well architected code",
+                    "Consults across multiple United Information Technology projects and technology areas to perform fixes, problem management, root-cause analysis, and solution implementation",
+                    "Serves as a resource for technology/project development review and technical assessments",
+                    "Provide consultation and technical leadership in project life cycle planning",
+                    "Ensures consistency and coherence to the enterprise standards and guiding principles throughout the application lifecycle",
+                    "Finds opportunities to leverage/influence the direction for existing infrastructure and application components",
+                    "Understands and applies the enterprise vision and strategy to the project solution while balancing tactical needs to deliver"
+                ]
+            },
+            "job_job_title": "Senior",
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_occupational_categories": [
+                "Digital Technology, Corporate"
+            ],
+            "job_naics_code": "481111",
+            "job_naics_name": "Scheduled Passenger Air Transportation"
+        },
+        {
+            "job_id": "7DxG247kv3J-HWsfAAAAAA==",
+            "employer_name": "confidential",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Jooble",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer",
+            "job_apply_link": "https://jooble.org/jdp/-6932759551602849262",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.5335,
+            "apply_options": [
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://jooble.org/jdp/-6932759551602849262",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Kforce has a client that is seeking a fully remote React Developer to join their team.\n\nOverview:\nThis piece of online has extremely high traffic with high visibility so they are in the process of adding new features in React (with hooks) and then the backend is built on Node (they mostly integrate to API's so its 90% front end react work). They plan to build reusable react components to ensure a smoother and healthier app experience. Testing is super important to what they do as they can risk any downtime so TDD experience is a must, and this person must be proficient at testing their own code. They also use CI/CD pipelines (Concourse/Jenkins) and deploy to the cloud (GCP). They also put an emphasis on monitoring the application once its deployed, as well as understanding the metrics on how its performing (new relic). They deploy to the cloud (GCP and bigquery) and need someone that understands some form of cloud and deployments. Lastly, the team is very energetic and strong collaboration skills are a must.\n• 3-5+ years of experience with React\n• Experience with HTML/CSS\n• Experience with TDD (testing their own code)\n• Experience with Node\n• Cloud Experience (GCP preferred, Bigquery a plus)\n• Understanding of pipelines, monitoring performance of application and metric",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1712707200,
+            "job_posted_at_datetime_utc": "2024-04-10T00:00:00.000Z",
+            "job_city": "Atlanta",
+            "job_state": "GA",
+            "job_country": "US",
+            "job_latitude": 33.748753,
+            "job_longitude": -84.38769,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=7DxG247kv3J-HWsfAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-05-11T09:49:09.000Z",
+            "job_offer_expiration_timestamp": 1715420949,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 36,
+                "experience_mentioned": true,
+                "experience_preferred": true
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 30,
+            "job_max_salary": 40,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Lastly, the team is very energetic and strong collaboration skills are a must",
+                    "3-5+ years of experience with React",
+                    "Experience with HTML/CSS",
+                    "Experience with TDD (testing their own code)",
+                    "Experience with Node"
+                ],
+                "Responsibilities": [
+                    "They plan to build reusable react components to ensure a smoother and healthier app experience",
+                    "They also put an emphasis on monitoring the application once its deployed, as well as understanding the metrics on how its performing (new relic)",
+                    "They deploy to the cloud (GCP and bigquery) and need someone that understands some form of cloud and deployments"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "job_id": "0xYBsfWjIOk-HNZjAAAAAA==",
+            "employer_name": "Deloitte",
+            "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/1200px-Deloitte.svg.png",
+            "employer_website": "http://www.deloitte.com",
+            "employer_company_type": "Consulting",
+            "job_publisher": "Deloitte Jobs",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer SS",
+            "job_apply_link": "https://jobsus.deloitte.com/lake-mary-fl/react-developer-ss/31E64AC936404A788C23125FF25240C9/job/",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.813,
+            "apply_options": [
+                {
+                    "publisher": "Deloitte Jobs",
+                    "apply_link": "https://jobsus.deloitte.com/lake-mary-fl/react-developer-ss/31E64AC936404A788C23125FF25240C9/job/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Deloitte-US/Job/React-Developer-SS/-in-Lake-Mary,FL?jid=89ebb6aeb6625e37",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=ad98a502bc305bb7",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-ss-at-deloitte-3887125790",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/P5SrEr-8iG3YkZ33MBXIWlmWK7SsxqOHDu7tBOnMka6Qa2UrBsn1RA",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/4643715229",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Nexxt",
+                    "apply_link": "https://www.nexxt.com/jobs/react-developer-ss-lake-mary-fl-2680531724-job.html?aff=2ED44C72-8FD2-4B5D-BC54-2F623E88BE26",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/job/us-fl-lake-mary-react-developer-ss-deloitte-hiring-now-job-immediately",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Are you an experienced, passionate pioneer in technology - a solutions builder, a roll-up-your-sleeves technologist who wants a daily collaborative environment, think-tank feel and share new ideas with your colleagues - without the extensive demands of travel? If so, consider an opportunity with our US Delivery Center - we are breaking the mold of a typical Delivery Center.\n\nOur US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below...\n\nThe Team- Digital Customer\n\nOur Digital Customer team focuses on designing and implementing sales and service experiences, capabilities, and architectures to bring customer strategies to life. Our ambition is to be the best in the world at driving customer transformation through the development of clever commercial strategies, distinctive experiences, and the application of digital technologies. We help make the \"creative digital consultancy\" real and in doing so, make new markets.\n\nProfessionals will serve our clients through the following types of work:\n• Sales Excellence & Service Excellence | delivers sales and service strategies and plans, operating model definition, incentive design and implementation, and operations support for digitally-enabled sales, channel, and customer service capabilities\n• Digital Experience | creates engaging omni-channel digital experiences across web, mobile, AR/VR, voice, gesture, IoT, and video\n• Flexible Consumption | the commercial strategy, operating model definition, and capability delivery of subscription/flexible consumption business models\n• Digital Foundry | a flexible, end-to-end delivery model emphasizing innovation and disruption\n• DigitalMix | an integrated set of platforms to enable business re-platforming\n\nWork you'll do\n• Responsible for supporting and independently completing project tasks\n• Developing new user-facing features using React.js\n• Building reusable components and front-end libraries for future use\n• Translating designs and wireframes into high quality code\n• Optimizing components for maximum performance across a vast array of web-capable devices and browsers\n• Participate in daily stand-ups, bi-weekly sprint planning, and sprint retrospectives for the team\n• Develop solutions to client problems through application of methods and tools; validates solutions to subject matter experts\n\nQualifications Required\n• 3+ years of experience with the design and development of single page web applications\n• Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience\n• Experience in React.js and its core principles such as React patterns, state management libraries (such as Flux or Redux), Props drilling, data sharing among React components\n• Experience with JavaScript, including DOM manipulation and the JavaScript object model\n• Experience in HTML5, CSS3 and Less/Sass and of any CSS frameworks (Bootstrap or Material Design)\n• Experience using RESTful APIs and integration with React.js\n• Experience with responsive web design and implementing web accessibility standards in code\n• Experience with common front-end development tools such as Babel, Webpack, NPM etc. and data structure libraries (e.g. Immutable.js)\n• Experience with security best practices and modern authorization mechanisms, such as JSON Web Token\n• Must live in a commutable distance (approximately 100-mile radius) to one of the following Delivery locations: Atlanta, GA; Charlotte, NC; Dallas, TX; Gilbert, AZ; Houston, TX; Lake Mary, FL; Mechanicsburg, PA; Philadelphia, PA with the ability to commute to assigned location for the day, without the need for overnight accommodations\n• Expectation to co-locate in your designated Delivery location up to 30% of the time based on business needs. This may include a maximum of 10% overnight client/project travel.\n• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.\n• Must be able to obtain the required level of security clearance for this role.\n\nQualifications Preferred\n• Knowledge of Node.js\n• Familiarity with other front-end languages and frameworks like jQuery, Angular, and Vue.js\n\nInformation for applicants with a need for accommodation:\n\nhttps://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1712716193,
+            "job_posted_at_datetime_utc": "2024-04-10T02:29:53.000Z",
+            "job_city": "Lake Mary",
+            "job_state": "FL",
+            "job_country": "US",
+            "job_latitude": 28.758883,
+            "job_longitude": -81.31785,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=0xYBsfWjIOk-HNZjAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 36,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "3+ years of experience with the design and development of single page web applications",
+                    "Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience",
+                    "Experience in React.js and its core principles such as React patterns, state management libraries (such as Flux or Redux), Props drilling, data sharing among React components",
+                    "Experience with JavaScript, including DOM manipulation and the JavaScript object model",
+                    "Experience in HTML5, CSS3 and Less/Sass and of any CSS frameworks (Bootstrap or Material Design)",
+                    "Experience using RESTful APIs and integration with React.js",
+                    "Experience with responsive web design and implementing web accessibility standards in code",
+                    "Experience with common front-end development tools such as Babel, Webpack, NPM etc",
+                    "and data structure libraries (e.g. Immutable.js)",
+                    "Experience with security best practices and modern authorization mechanisms, such as JSON Web Token",
+                    "Must live in a commutable distance (approximately 100-mile radius) to one of the following Delivery locations: Atlanta, GA; Charlotte, NC; Dallas, TX; Gilbert, AZ; Houston, TX; Lake Mary, FL; Mechanicsburg, PA; Philadelphia, PA with the ability to commute to assigned location for the day, without the need for overnight accommodations",
+                    "Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future",
+                    "Must be able to obtain the required level of security clearance for this role"
+                ],
+                "Responsibilities": [
+                    "Sales Excellence & Service Excellence | delivers sales and service strategies and plans, operating model definition, incentive design and implementation, and operations support for digitally-enabled sales, channel, and customer service capabilities",
+                    "Responsible for supporting and independently completing project tasks",
+                    "Developing new user-facing features using React.js",
+                    "Building reusable components and front-end libraries for future use",
+                    "Translating designs and wireframes into high quality code",
+                    "Optimizing components for maximum performance across a vast array of web-capable devices and browsers",
+                    "Participate in daily stand-ups, bi-weekly sprint planning, and sprint retrospectives for the team",
+                    "Develop solutions to client problems through application of methods and tools; validates solutions to subject matter experts",
+                    "Expectation to co-locate in your designated Delivery location up to 30% of the time based on business needs"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541613",
+            "job_naics_name": "Marketing Consulting Services"
+        },
+        {
+            "job_id": "JS4gHaFLxIN_SRLoAAAAAA==",
+            "employer_name": "Stellent IT",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgblR6u_hzZDGWeWevl9wg58kDXyIN67H9kTkF&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-stellent-it-3894105972",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6113,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-stellent-it-3894105972",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "React Jobs",
+                    "apply_link": "https://reactjsjob.com/job/2f0989DBCuzDEUHM2RTBwIQs23T/React%20Developer",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/react-developer-charlotte-nc--23a9f715-26cb-4d15-b13f-4d875ba247a7",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/4645860821",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Job Title- React Developer\n\nLocation: Charlotte, NC (Hybrid)\n\nDuration : Contract\n\n13+ years of experience\n\nProject: Team builds rich front end experiences for horizontals like Digital Pro and ePRO.\n\nSkills\n\nFront end engineering experience, on large customer facing applications\n\nReact\n\nNode\n\nRredux Experience\n\nRetail/ecommerce experience is desirableRe\n\nPriyanka\n\nSr Recruiter\n\nPriyanka@stellentit.com\n\n2015814821",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1712989370,
+            "job_posted_at_datetime_utc": "2024-04-13T06:22:50.000Z",
+            "job_city": "Charlotte",
+            "job_state": "NC",
+            "job_country": "US",
+            "job_latitude": 35.227085,
+            "job_longitude": -80.843124,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=JS4gHaFLxIN_SRLoAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-05-13T06:22:04.000Z",
+            "job_offer_expiration_timestamp": 1715581324,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 156,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "13+ years of experience",
+                    "Project: Team builds rich front end experiences for horizontals like Digital Pro and ePRO",
+                    "Front end engineering experience, on large customer facing applications"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "job_id": "dQQbGOXsr_Hg4joaAAAAAA==",
+            "employer_name": "Communities.Tech",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Glassdoor",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.glassdoor.com/job-listing/react-developer-communities-tech-JV_IC1139740_KO0,15_KE16,32.htm?jl=1009207165278",
+            "job_apply_is_direct": true,
+            "job_apply_quality_score": 0.6442,
+            "apply_options": [
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/react-developer-communities-tech-JV_IC1139740_KO0,15_KE16,32.htm?jl=1009207165278",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=64109d405021d698",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/xSwD3kEQMUUu3PsmK0jY-pkeKL3HYiy1FjUE-L0HeTS9olBzaZ8Z9w",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "We are seeking a Software Developer in Amarillo, TX to build and scale a variety of Web and Mobile Products from the very beginning. We are designing, building and implementing a new software solution to fill a gap in our industry.\n\nAs the Developer, you will be part of an agile team with Front End and Backend Developers, Product team, Database team and QA engineers. The role also requires a desire to learn and apply new skills. You should be skilled at building web-based software or mobile apps and excel at learning new languages and frameworks.\n\nTech Stack:\n\nReact.JS, Node.JS, REST, MaterialUI, Prime React, MongoDB, PostreSQL, OAuth/JWT, NGINX, ElasticSearch, AWS, Git, JIRA\n\nKey Responsibilities include:\n• Develop fully functional dynamic application with high quality code\n• Design, build, scale, and enhance software products, apps, and platforms based on client needs and business requirements\n• Collaborate with designers, and product teams to propose solutions to meet the goals of clients and their products\n• Define, refine, and document Best Practices that enable excellent team performance\n\nWe’re looking for someone who:\n• This job is located at our Corporate Office in Amarillo, TX.\n• Has 3+ years of front-end/back-end development experience\n• Has experience building and scaling software products\n• Has experience architecting and deploying software products to cloud providers like Google Cloud, Amazon Web Services, or Azure\n• Has prior working experience in Agile Scrum development and methodology\n\nWhat we offer:\n• In-house Gym Membership\n• Company laptop\n• Full medical, dental, and vision insurance\n• 401k\n• Paid vacation\n• Opportunity for advancement\n\nJob Type: Full-time\n\nPay: $50,000.00 - $80,000.00 per year\n\nBenefits:\n• 401(k)\n• Dental insurance\n• Health insurance\n• Paid time off\n• Vision insurance\n\nCompensation package:\n• Weekly pay\n\nExperience level:\n• 2 years\n• 3 years\n• 4 years\n• 5 years\n• 6 years\n• 7 years\n\nSchedule:\n• Monday to Friday\n\nApplication Question(s):\n• Do you live in Amarillo or willing to relocate?\n• Do you work within React on a daily basis or have in the past?\n\nExperience:\n• React: 1 year (Required)\n\nAbility to Relocate:\n• Amarillo, TX: Relocate before starting work (Required)\n\nWork Location: In person",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1711497600,
+            "job_posted_at_datetime_utc": "2024-03-27T00:00:00.000Z",
+            "job_city": "Amarillo",
+            "job_state": "TX",
+            "job_country": "US",
+            "job_latitude": 35.221996,
+            "job_longitude": -101.8313,
+            "job_benefits": [
+                "paid_time_off",
+                "retirement_savings",
+                "health_insurance",
+                "dental_coverage"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=dQQbGOXsr_Hg4joaAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-08-11T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1723334400,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 36,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 50000,
+            "job_max_salary": 80000,
+            "job_salary_currency": "USD",
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "The role also requires a desire to learn and apply new skills",
+                    "You should be skilled at building web-based software or mobile apps and excel at learning new languages and frameworks",
+                    "Has 3+ years of front-end/back-end development experience",
+                    "Has experience building and scaling software products",
+                    "Has experience architecting and deploying software products to cloud providers like Google Cloud, Amazon Web Services, or Azure",
+                    "Has prior working experience in Agile Scrum development and methodology",
+                    "2 years",
+                    "4 years",
+                    "5 years",
+                    "6 years",
+                    "7 years",
+                    "React: 1 year (Required)",
+                    "Amarillo, TX: Relocate before starting work (Required)"
+                ],
+                "Responsibilities": [
+                    "As the Developer, you will be part of an agile team with Front End and Backend Developers, Product team, Database team and QA engineers",
+                    "Develop fully functional dynamic application with high quality code",
+                    "Design, build, scale, and enhance software products, apps, and platforms based on client needs and business requirements",
+                    "Collaborate with designers, and product teams to propose solutions to meet the goals of clients and their products",
+                    "Define, refine, and document Best Practices that enable excellent team performance"
+                ],
+                "Benefits": [
+                    "In-house Gym Membership",
+                    "Company laptop",
+                    "Full medical, dental, and vision insurance",
+                    "401k",
+                    "Paid vacation",
+                    "Opportunity for advancement",
+                    "Pay: $50,000.00 - $80,000.00 per year",
+                    "401(k)",
+                    "Health insurance",
+                    "Paid time off",
+                    "Compensation package:",
+                    "Weekly pay"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "job_id": "45Qz9edkG5OO5scmAAAAAA==",
+            "employer_name": "Leidos",
+            "employer_logo": "https://www.leidos.com/themes/custom/leidos/logo.png",
+            "employer_website": "http://www.leidos.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "Leidos Careers",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Senior Full Stack React/PHP Developer",
+            "job_apply_link": "https://careers.leidos.com/jobs/14241889-senior-full-stack-react-slash-php-developer",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.82,
+            "apply_options": [
+                {
+                    "publisher": "Leidos Careers",
+                    "apply_link": "https://careers.leidos.com/jobs/14241889-senior-full-stack-react-slash-php-developer",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/senior-full-stack-react-php-developer-at-leidos-3897020709",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice.com",
+                    "apply_link": "https://www.dice.com/job-detail/fe5f99f4-83e2-4d54-b034-9f4920d7512e",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "KGET Jobs",
+                    "apply_link": "https://jobs.kget.com/jobs/senior-full-stack-react-php-developer-baltimore-maryland/1293248000-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Diversity Jobs",
+                    "apply_link": "https://diversityjobs.com/career/7772959/Senior-Full-Stack-React-Php-Developer-Maryland-Baltimore",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/senior-full-stack-react-php-developer-baltimore-md--81acd852-1c38-412c-b802-acdb3c9aed12?mstr_dist=true",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Leidos/Job/Senior-Full-Stack-React-PHP-Developer/-in-Baltimore,MD?jid=e77b6f6087c1cd93",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LocalJobs.com",
+                    "apply_link": "https://www.localjobs.com/job/baltimore-md-senior-full-stack-react-php-developer",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Description\n\nLeidos is seeking a Senior Full Stack React/PHP Developer to be part of the mission solution and help lead SSA’s Digital Modernization Strategy. Join one of our high performing teams responsible for building the next-generation content management system, enterprise APIs and modern responsive user interfaces, supporting the Social Security Administration (SSA) and their mission to meet the changing needs of the public, positively impacting at least 65 million American lives per month. We are a team of forward-looking professionals in need of a strong candidate with these key required skills: Modern Development (PHP, Java EE with SpringBoot, Python, C# with .Net Core), Relational Databases (PostgreSQL, DB2, or Oracle), Agile Development, SOA/Microservice architecture, and React. (max 255 characters)\n\nIf this sounds like a mission you want to be a part of, keep reading!\n\nTEAM CULTURE\n\nYour passion and values might be a good fit for our teams if you answer “yes” to the following questions:\n• Are you looking for a company that puts employees first, with a focus on career, flexibility, and well-being?\n• Do you enjoy collaborating with colleagues and teammates and believe that the best ideas are fostered in an inclusive environment?\n• Are you searching for a team with a strong sense of ownership, urgency, and drive for daily mission success?\n• Are you comfortable with proactive outward communication and technical leadership?\n• Do you enjoy being a catalyst, solving complex problems, and providing innovative solutions?\n• Do you have the flexibility, creativity, and resilience to pivot the mission for success?\n• Do you have the courage to make tough ethical decisions with pride, transparency, and respect?\n\nMENTORSHIP & CAREER GROWTH\n\nOur teams are dedicated to supporting new team members in an environment that celebrates knowledge sharing and mentorship. Experienced team members will be assigned to new hires for one-on-one mentoring, collaborative reviews, and coaching on customer engagement to help each new hire successfully onboard and demonstrate their skills. Projects and tasks are assigned in a way that leverages your strengths and will help you further develop your skillset.\n\nDAY TO DAY RESPONSIBILITIES\n\nEvery position we take is more rewarding when you know the why behind it. Know your work makes a difference to support those who need it most. If your passion is enabling life changing service to those around, you this is the place for you. Find you passion in a team environment where all members are valued regardless of contractor or employee status. Find your “Why” with us and take your place in our Leidos Family!!\n• Architect, design, develop, and implement next-generation web application using software engineering best practices in the latest technologies:\n• Single Page Application front-end (React, Angular, NodeJS, Sass, Typescript)\n• Content Management System (Drupal, WordPress)\n• DevOps (Jenkins, Red Hat OpenShift, Docker, SonarQube, UrbanCode)\n• Provide software expertise in one or more of these areas: PHP application integration, Drupal, service oriented architectures (SOA), security, business process management/business rules processing, module integration, user experience (UX) and accessibility (Section 508/WCAG/USDS Web Standards)\n• Investigate and repair application defects regardless of component: front-end, business logic, middleware, or database (PL/SQL and Data Modeling).\n• Brief management, customer, team, or vendors using written or oral skills at appropriate technical level for audience\n• All other duties as assigned or directed\n\nFOUNDATION FOR SUCCESS (Basic Qualifications)\n• Bachelor's Degree in Computer Science, Mathematics, Engineering or a related field.\n• Master’s or Doctorate degree may substitute for required experience\n• 8+ years of combined experience with modern software development (PHP, Java EE with SpringBoot, Python, C# with .Net Core)\n• 3+ years of combined experience web development and building responsive UIs with modern front-end technologies\n• 2+ years of combined experience with Content Management Systems (Drupal, WordPress)\n• Must be able to obtain and maintain a Public Trust. Contract requirement.\n• ** Selected candidate must reside within two (2) hours of SSA Headquarters in Woodlawn, MD\n• ** Selected candidate must be willing to work on-site at least 2 days a week.\n\nFACTORS TO HELP YOU SHINE (Required Skills)\n\nThese skills will help you succeed in this position:\n• Solid understanding of modern PHP frameworks (Drupal, Laravel, Symfony, Zend).\n• Basic knowledge of PHP’s type system (typed properties and union types).\n• Basic experience with concurrent programming (pthreads, pcntl, ReactPHP).\n• Solid knowledge of relational databases (PostgreSQL, DB2, and Oracle), SQL, and ORM technologies (RedBeanPHP, Doctrine, and Eloquent).\n• Solid experience with automated unit testing, TDD, BDD, and associated technologies (PHPUnit, PHPSpec, Mockito, Behat / Cucumber, Selenium, and Karma/Jasmine).\n• Development experience with building responsive UIs with modern front-end technologies such as React, or Angular.\n• Solid knowledge of front-end technologies (HTML, Modern JavaScript, Typescript, JQuery, and CSS).\n• Basic understanding of DevOps and tools (Git/Bitbucket, Jenkins, SonarQube).\n• Experience with API development & monitoring tools (Ready API, Swagger, Splunk, Dynatrace)\n• Experience working on Agile projects and understanding Agile terminology.\n\nHOW TO STAND OUT FROM THE CROWD (Desired Skills)\n\nShowcase your knowledge of modern development through the following experience or skills:\n• Preferred experience with AWS cloud technologies or other cloud platforms; AWS cloud certifications.\n• Experience with PaaS (Red Hat OpenShift/Kubernetes) and Docker containers.\n• Delivery (CI/CD) best practices and use of DevOps to accelerate quality releases to Production.\n• Preferred experience integrating / establishing advance search capabilities (AWS Kendra).\n• Basic understanding of Enterprise Integration Patterns.\n• An in-depth knowledge of Social Security Administration (SSA).\n\nAt Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customers’ success. We empower our teams and contribute to our communities. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business. Every position we take is more rewarding when you know the why behind it. Know your work makes a difference to support those who need it most. If your passion is enabling life changing service to those around, you this is the place for you. Find your passion in a team environment where all members are valued regardless of contractor or employee status. We are excited for you to take your place in our Leidos Family.\n\nAre you an US citizen, US resident, or Visa candidate and think you might fit? We recommend you apply and start the conversation today! Join us in supporting our SSA contracts in Woodlawn, Maryland.\n\nITSSCII\n\nOriginal Posting Date:\n2024-04-12\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range:\nPay Range $81,250.00 - $146,875.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1712931082,
+            "job_posted_at_datetime_utc": "2024-04-12T14:11:22.000Z",
+            "job_city": "Baltimore",
+            "job_state": "MD",
+            "job_country": "US",
+            "job_latitude": 39.290386,
+            "job_longitude": -76.61219,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q='react+developer'&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq='react+developer'&htidocid=45Qz9edkG5OO5scmAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 96,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": true
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Provide software expertise in one or more of these areas: PHP application integration, Drupal, service oriented architectures (SOA), security, business process management/business rules processing, module integration, user experience (UX) and accessibility (Section 508/WCAG/USDS Web Standards)",
+                    "Bachelor's Degree in Computer Science, Mathematics, Engineering or a related field",
+                    "Master’s or Doctorate degree may substitute for required experience",
+                    "8+ years of combined experience with modern software development (PHP, Java EE with SpringBoot, Python, C# with .Net Core)",
+                    "3+ years of combined experience web development and building responsive UIs with modern front-end technologies",
+                    "2+ years of combined experience with Content Management Systems (Drupal, WordPress)",
+                    "Must be able to obtain and maintain a Public Trust",
+                    "** Selected candidate must reside within two (2) hours of SSA Headquarters in Woodlawn, MD",
+                    "** Selected candidate must be willing to work on-site at least 2 days a week",
+                    "Solid understanding of modern PHP frameworks (Drupal, Laravel, Symfony, Zend)",
+                    "Basic knowledge of PHP’s type system (typed properties and union types)",
+                    "Basic experience with concurrent programming (pthreads, pcntl, ReactPHP)",
+                    "Solid knowledge of relational databases (PostgreSQL, DB2, and Oracle), SQL, and ORM technologies (RedBeanPHP, Doctrine, and Eloquent)",
+                    "Solid experience with automated unit testing, TDD, BDD, and associated technologies (PHPUnit, PHPSpec, Mockito, Behat / Cucumber, Selenium, and Karma/Jasmine)",
+                    "Development experience with building responsive UIs with modern front-end technologies such as React, or Angular",
+                    "Solid knowledge of front-end technologies (HTML, Modern JavaScript, Typescript, JQuery, and CSS)",
+                    "Basic understanding of DevOps and tools (Git/Bitbucket, Jenkins, SonarQube)",
+                    "Experience with API development & monitoring tools (Ready API, Swagger, Splunk, Dynatrace)",
+                    "Experience working on Agile projects and understanding Agile terminology",
+                    "Experience with PaaS (Red Hat OpenShift/Kubernetes) and Docker containers",
+                    "Basic understanding of Enterprise Integration Patterns",
+                    "An in-depth knowledge of Social Security Administration (SSA)"
+                ],
+                "Responsibilities": [
+                    "Experienced team members will be assigned to new hires for one-on-one mentoring, collaborative reviews, and coaching on customer engagement to help each new hire successfully onboard and demonstrate their skills",
+                    "Projects and tasks are assigned in a way that leverages your strengths and will help you further develop your skillset",
+                    "Investigate and repair application defects regardless of component: front-end, business logic, middleware, or database (PL/SQL and Data Modeling)",
+                    "Brief management, customer, team, or vendors using written or oral skills at appropriate technical level for audience",
+                    "All other duties as assigned or directed"
+                ],
+                "Benefits": [
+                    "Pay Range $81,250.00 - $146,875.00",
+                    "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+                ]
+            },
+            "job_job_title": "Senior",
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541512",
+            "job_naics_name": "Computer Systems Design Services"
+        }
+    ]
+}
