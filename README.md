@@ -11,3 +11,4 @@ axios
 firebase (not yet)  
 jest (not yet)  
 
+I know there is an API key commited, its a free api key (i am broke) so it dont matter and i don't know how to use environment variables.    
